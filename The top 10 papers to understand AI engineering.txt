@@ -1,0 +1,11 @@
+The top 10 papers to understand AI engineering 
+ Paper #1 https://arxiv.org/pdf/1706.03762
+ Paper #2 https://arxiv.org/pdf/2005.14165
+ Paper #3 https://arxiv.org/pdf/2203.02155
+ Paper #4 https://arxiv.org/pdf/2106.09685
+ Paper #5 https://arxiv.org/pdf/2005.11401
+ Paper #6 https://arxiv.org/pdf/2309.07864
+ Paper #7 https://arxiv.org/pdf/2101.03961
+ Paper #8 https://arxiv.org/pdf/1910.01108
+ Paper #9 https://arxiv.org/pdf/2208.07339
+ Paper #10 https://www.anthropic.com/news/model-context-protocol
